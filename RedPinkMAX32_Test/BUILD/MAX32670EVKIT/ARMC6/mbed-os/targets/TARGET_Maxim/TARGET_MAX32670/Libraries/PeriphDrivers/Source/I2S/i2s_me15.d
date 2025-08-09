@@ -1,0 +1,26 @@
+BUILD\MAX32670EVKIT\ARMC6\mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Source\I2S\i2s_me15.o: \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Source\I2S\i2s_me15.c \
+  BUILD\MAX32670EVKIT\ARMC6\mbed_config.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_device.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\max32670.h \
+  mbed-os\cmsis\CMSIS_5\CMSIS\TARGET_CORTEX_M\Include\core_cm4.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\system_max32670.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_errors.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_pins.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\gpio.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\gpio_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_assert.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_lock.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_sys.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_device.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\gcr_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\mcr_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_delay.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\dma.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\dma_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\i2s.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_sys.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\dma.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\i2s_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Source\I2S\i2s_reva.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Source\I2S\i2s_reva_regs.h

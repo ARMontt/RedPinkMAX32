@@ -1,0 +1,35 @@
+BUILD\MAX32670EVKIT\ARMC6\mbed-os\drivers\source\PortIn.o: \
+  mbed-os\drivers\source\PortIn.cpp \
+  BUILD\MAX32670EVKIT\ARMC6\mbed_config.h \
+  mbed-os\drivers\include\drivers\PortIn.h \
+  mbed-os\platform\include\platform\platform.h \
+  mbed-os\platform\include\platform\mbed_retarget.h \
+  mbed-os\platform\include\platform\mbed_toolchain.h \
+  mbed-os\platform\include\platform\mbed_preprocessor.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\device.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\objects.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\device\cmsis.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\max32670.h \
+  mbed-os\cmsis\CMSIS_5\CMSIS\TARGET_CORTEX_M\Include\core_cm4.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\system_max32670.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\device\nvic_table.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\PortNames.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\TARGET_MAX32670EVKIT\PeripheralNames.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\TARGET_MAX32670EVKIT\PinNames.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\gpio_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\gpio_object.h \
+  mbed-os\platform\include\platform\mbed_assert.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\uart.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\uart_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_sys.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_device.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_errors.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\mxc_pins.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\PeriphDrivers\Include\MAX32670\gpio.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\gcr_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\mcr_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\i2c_regs.h \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\Libraries\CMSIS\Device\Maxim\MAX32670\Include\spi_regs.h \
+  mbed-os\hal\include\hal\PinNameAliases.h \
+  mbed-os\hal\include\hal\port_api.h \
+  mbed-os\platform\include\platform\mbed_critical.h

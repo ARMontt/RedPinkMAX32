@@ -1,0 +1,3 @@
+BUILD\MAX32670EVKIT\ARMC6\mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\device\TOOLCHAIN_ARM_STD\startup_max32670.o: \
+  mbed-os\targets\TARGET_Maxim\TARGET_MAX32670\device\TOOLCHAIN_ARM_STD\startup_max32670.S \
+  BUILD\MAX32670EVKIT\ARMC6\mbed_config.h
