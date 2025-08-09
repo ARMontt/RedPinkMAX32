@@ -13,12 +13,19 @@ First set of prototypes were fabricated at JLCPCB. Please be careful with the bo
 ## Components:
 List of components can be found on BOM_MicroMAX32.csv
 ## Prototype fabricated:
+RedPink MAX32 working on MicroMod ATP. First prototype under revision.
 ![RedPink_MAX32_Real](./RedPinkMAX32_Real.jpg)
+
+## Firmware
+For testing the board it is necessary to use mbed Studio, implementing main.cpp file and BUILD folder (which contains MAX32670EVKIT) into the mbed project. 
+![RedPink_MAX32_Real](./RedPinkMAX32_Firmware.png)
+
 ## Tested:
+Testing the communication was done by using a Logic Analyzer.
 - I2C
 - SPI
 - GPIO
-- mBed OS
+- mBed OS Threads
 - LED
 
 ## Under Revision:
